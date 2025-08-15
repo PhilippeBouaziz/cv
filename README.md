@@ -54,3 +54,5 @@ Expert en ingénierie de la donnée avec plus de 10 ans d'expérience dans les s
 - Email : philippe_bouaziz@hotmail.com
 - Téléphone : +41 76 625 02 20
 - Localisation : Lausanne, Suisse
+
+## WebCV : [https://philippebouaziz.github.io/cv/]
